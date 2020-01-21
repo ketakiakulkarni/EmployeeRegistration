@@ -1,4 +1,4 @@
-# Employee registration with Angualr and Web API
+# Employee registration CRUD operations with Angular and Web API
 
 
 ###### Before Running this Project
